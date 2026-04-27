@@ -84,13 +84,16 @@ The objective is to transform raw transactional data into actionable insights th
 ---
 
 ## Project Structure
+
+```
 retail-sales-analysis/
-│
 ├── notebook/
-│ └── analysis.ipynb
+│   └── analysis.ipynb
 ├── images/
-│ └── (charts and visualizations)
+│   └── charts/
 └── README.md
+```
+
 
 ---
 

@@ -103,11 +103,14 @@ retail-sales-analysis/
   <img src="image/trend.png" width="600"/>
 - Sales by region
   <img src="image/region_sales.png" width="600"/>
-- Geographic concentration (states & cities)  
-- Product category and sub-category analysis  
-- Region × Category comparison  
-- Customer segment distribution  
-- Order processing time distribution  
+- Geographic concentration (states & cities)
+  <img src="image/sales_share_state.png" width="600"/>
+- Region × Category comparison
+  <img src="image/region_category.png" width="600"/>  
+- Customer segment distribution
+  <img src="image/segment.png" width="600"/>  
+- Order processing time distribution
+  <img src="image/time_distribution.png" width="600"/> 
 
 ---
 

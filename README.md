@@ -99,7 +99,7 @@ retail-sales-analysis/
 
 ## Key Visualizations
 
-- Monthly and yearly sales trends  
+- ![Monthly and yearly sales trends](images/trend.png) 
 - Sales by region  
 - Geographic concentration (states & cities)  
 - Product category and sub-category analysis  
